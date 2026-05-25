@@ -69,6 +69,12 @@
 
     <dependencies>
 
+        <dependency>
+            <groupId>dev.scx</groupId>
+            <artifactId>scx-ffi</artifactId>
+            <version>${scx-ffi.version}</version>
+        </dependency>
+
         <!-- TestNG 测试包 -->
         <dependency>
             <groupId>org.testng</groupId>
@@ -82,6 +88,7 @@
     <properties>
 
         <!-- *********************** 以下为依赖包版本 *********************** -->
+        <scx-ffi.version>0.2.0</scx-ffi.version>
         <testng.version>7.11.0</testng.version>
 
     </properties>
