@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://scx.dev/scx-logo/scx-ffi-x-logo.svg" width="300px" alt="scx-ffi-x-logo"/>
-</p>
+# SCX FFI X
+
 <p align="center">
     <a target="_blank" href="https://github.com/scx-projects/scx-ffi-x/actions/workflows/ci.yml">
         <img src="https://github.com/scx-projects/scx-ffi-x/actions/workflows/ci.yml/badge.svg" alt="CI"/>
